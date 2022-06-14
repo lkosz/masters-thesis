@@ -1,6 +1,6 @@
 ## My master's thesis
 
-[mgr.pdf](mgr.pdf)
+[mgr.pdf](mgr.pdf) Polish version only
 
 It's a good handbook for those who want to learn basics of image compression alhorithms. You can find there:
 - theoretical introduction to signal processing and typical problems
